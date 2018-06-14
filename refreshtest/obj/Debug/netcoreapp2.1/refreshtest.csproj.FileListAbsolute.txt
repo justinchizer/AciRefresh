@@ -1,0 +1,11 @@
+c:\users\juchizer\source\repos\refreshtest\refreshtest\obj\Debug\netcoreapp2.1\refreshtest.csprojAssemblyReference.cache
+c:\users\juchizer\source\repos\refreshtest\refreshtest\obj\Debug\netcoreapp2.1\refreshtest.csproj.CoreCompileInputs.cache
+c:\users\juchizer\source\repos\refreshtest\refreshtest\obj\Debug\netcoreapp2.1\refreshtest.AssemblyInfoInputs.cache
+c:\users\juchizer\source\repos\refreshtest\refreshtest\obj\Debug\netcoreapp2.1\refreshtest.AssemblyInfo.cs
+c:\users\juchizer\source\repos\refreshtest\refreshtest\bin\Debug\netcoreapp2.1\refreshtest.deps.json
+c:\users\juchizer\source\repos\refreshtest\refreshtest\bin\Debug\netcoreapp2.1\refreshtest.runtimeconfig.json
+c:\users\juchizer\source\repos\refreshtest\refreshtest\bin\Debug\netcoreapp2.1\refreshtest.runtimeconfig.dev.json
+c:\users\juchizer\source\repos\refreshtest\refreshtest\bin\Debug\netcoreapp2.1\refreshtest.dll
+c:\users\juchizer\source\repos\refreshtest\refreshtest\bin\Debug\netcoreapp2.1\refreshtest.pdb
+c:\users\juchizer\source\repos\refreshtest\refreshtest\obj\Debug\netcoreapp2.1\refreshtest.dll
+c:\users\juchizer\source\repos\refreshtest\refreshtest\obj\Debug\netcoreapp2.1\refreshtest.pdb
